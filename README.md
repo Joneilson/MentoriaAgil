@@ -1,7 +1,7 @@
 # 🎓 Plataforma de Mentoria Acadêmica e Profissional
 
 ![Status](https://img.shields.io/badge/Status-Iteração%201%20(Configuração)-blue?style=for-the-badge&logo=github)
-![Java](https://img.shields.io/badge/Backend-Java%2017%20%7C%20Spring%20Boot-green?style=for-the-badge&logo=spring)
+![Java](https://img.shields.io/badge/Backend-Java%2025%20%7C%20Spring%20Boot-green?style=for-the-badge&logo=spring)
 ![Angular](https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge&logo=angular)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
@@ -39,7 +39,7 @@ O projeto segue uma arquitetura moderna dividida em dois módulos:
 
 ### ⚙️ Backend (Servidor)
 * **Framework:** [Spring Boot](https://spring.io/projects/spring-boot)
-* **Linguagem:** [Java 17](https://www.oracle.com/java/)
+* **Linguagem:** [Java 25](https://www.oracle.com/java/technologies/downloads/#java25)
 * **Build Tool:** [Maven](https://maven.apache.org/)
 * **Diretório:** [`/backend`](./backend)
 
@@ -48,7 +48,7 @@ O projeto segue uma arquitetura moderna dividida em dois módulos:
 ## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
-* [Java JDK 17+](https://www.oracle.com/java/technologies/downloads/#java17)
+* [Java JDK 25+](https://www.oracle.com/java/technologies/downloads/#java25)
 * [Node.js e NPM](https://nodejs.org/)
 * [Angular CLI](https://angular.io/cli)
 
