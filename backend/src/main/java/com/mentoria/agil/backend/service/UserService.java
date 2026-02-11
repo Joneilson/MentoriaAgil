@@ -17,8 +17,12 @@ public class UserService {
         this.passwordEncoder = passwordEncoder;
     }
 
+    public User buscarPorEmail(String email) {
+        return userRepository.findByEmail(email)
+                .orElse(null); 
+    }
+
     public User salvarUsuario(User user) {
-        // Tarefa concluída: Implementar hash de senha
         String senhaHasheada = passwordEncoder.encode(user.getPassword());
         user.setPassword(senhaHasheada);
         return userRepository.save(user);
