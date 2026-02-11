@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Iteração%201%20(Configuração)-blue?style=for-the-badge&logo=github)
 ![Java](https://img.shields.io/badge/Backend-Java%2025%20%7C%20Spring%20Boot-green?style=for-the-badge&logo=spring)
 ![Angular](https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge&logo=angular)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 ## 📌 Sobre o Projeto
@@ -26,6 +27,7 @@ Time responsável pela construção do projeto:
 | **Vinícius Mendes de Carvalho** | [![GitHub](https://img.shields.io/badge/GitHub-imvmc-100000?style=flat&logo=github&logoColor=white)](https://github.com/imvmc) |
 | **João Victor Iane Góis** | [![GitHub](https://img.shields.io/badge/GitHub-JoaoPresideu-100000?style=flat&logo=github&logoColor=white)](https://github.com/JoaoPresideu) |
 | **Maria Luiza Marques da Silva** | [![GitHub](https://img.shields.io/badge/GitHub-TheSerian-100000?style=flat&logo=github&logoColor=white)](https://github.com/TheSerian) |
+| **Augusto Sergio Berlamino Leite** | [![GitHub](https://img.shields.io/badge/GitHub-aaugustoo-100000?style=flat&logo=github&logoColor=white)](https://github.com/aaugustoo) |
 
 ---
 
@@ -35,6 +37,7 @@ O projeto segue uma arquitetura moderna dividida em dois módulos:
 ### 🎨 Frontend (Cliente)
 * **Framework:** [Angular](https://angular.io/)
 * **Linguagem:** [TypeScript](https://www.typescriptlang.org/)
+* **Estilização** [Tailwind](https://tailwindcss.com/docs/installation/framework-guides/angular)
 * **Diretório:** [`/frontend`](./frontend)
 
 ### ⚙️ Backend (Servidor)
@@ -51,6 +54,7 @@ O projeto segue uma arquitetura moderna dividida em dois módulos:
 * [Java JDK 25+](https://www.oracle.com/java/technologies/downloads/#java25)
 * [Node.js e NPM](https://nodejs.org/)
 * [Angular CLI](https://angular.io/cli)
+* [Tailwind install](https://tailwindcss.com/docs/installation/framework-guides/angular)
 
 ### 1️⃣ Clonar o Repositório
 ```bash
