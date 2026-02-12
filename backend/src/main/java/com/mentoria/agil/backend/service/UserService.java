@@ -37,8 +37,4 @@ public class UserService {
         user.setPassword(senhaHasheada);
         return userRepository.save(user);
     }
-    public User buscarPorEmail(String email) {
-    return userRepository.findByEmail(email)
-            .orElse(null); // Retorna o usuário ou null se não encontrar
-    }
 }
