@@ -2,11 +2,11 @@ name: Frontend CI - Mentoria Ágil
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, test-actions ]
     paths:
       - 'frontend/**'
   pull_request:
-    branches: [ main ]
+    branches: [ main, test-actions ]
     paths:
       - 'frontend/**'
 
